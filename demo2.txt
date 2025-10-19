@@ -1,1 +1,1 @@
-s this is the second file for git, i have modified the file<HI>
+ this  second file for git, i have modified the file<HIsvsd> this is the for git diff command
