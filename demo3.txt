@@ -1,1 +1,1 @@
-this is the example of git stash.
+this is the example of stash , now this is for git revert.
