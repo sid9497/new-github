@@ -1,1 +1,1 @@
-this is the example of git revert.
+this is the example of git revert. now will do the second commit so that i can use it for git revert.
