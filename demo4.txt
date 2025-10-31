@@ -1,1 +1,1 @@
-this is the example of git reset command , first we will see the soft reset.
+this is the example of git reset command , first we will see the soft reset, this is the second edit for commit2.
