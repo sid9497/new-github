@@ -1,1 +1,1 @@
-this is the example of git reset command , first we will see the soft reset, this is the second edit for commit2.
+this is the example of git reset command , first we will see the soft reset, this is the second edit for commit2, now we will do third commit .done the git reset --soft<commit3 id> Changes to be committed: commit 3 will go the commit 2staging area.we doing the git reset --mixed <second commit id>
